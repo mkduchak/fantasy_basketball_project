@@ -13,5 +13,5 @@ cp -r /home/ubuntu/fantasy_basketball_project/scraper/data/standings/ /home/ubun
 echo "Moved Files to Dropbox"
 
 # Uploads files in dropbox uploader
-/home/ubuntu/Dropbox-Uploader/dropbox_uploader.sh -s upload standings/ basketball_standings/
+/home/ubuntu/Dropbox-Uploader/dropbox_uploader.sh -s upload Dropbox-Uploader/standings/ basketball_standings/
 echo "Uploaded new files to dropbox"

@@ -7,6 +7,8 @@ jupyter nbconvert --to python team_points_summary.ipynb
 # runs newly created python script
 python team_points_summary.py
 
+cd ~
+
 # Moves all standings to dropbox uploader
 cp -r /home/ubuntu/fantasy_basketball_project/scraper/data/standings/ /home/ubuntu/Dropbox-Uploader/
 

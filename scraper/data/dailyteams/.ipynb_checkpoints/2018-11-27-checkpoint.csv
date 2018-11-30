@@ -1,0 +1,14 @@
+,pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%OWN,+/-,team_id,scoring_period,date
+0,C,Enes KanterNYC,@Det,L 108-115,36,14,2,1,1,16,6.33,88.9,+0.3,6,43,2018-11-27
+1,G,"Jimmy ButlerPhiSG, SF",,,,,,,,,6.24,99.7,0.0,6,43,2018-11-27
+2,G,CJ McCollumPorSG,,,,,,,,,2.48,98.3,-0.4,6,43,2018-11-27
+3,G,Jamal MurrayDenPG,LAL,W 117-85,34,3,4,0,0,20,5.79,83.5,-1.0,6,43,2018-11-27
+4,F,"LeBron JamesLALSF, PF",@Den,L 85-117,30,7,2,2,2,14,9.90,99.9,-0.1,6,43,2018-11-27
+5,F,"Ben SimmonsPhiPG, SF",,,,,,,,,8.64,99.6,-0.1,6,43,2018-11-27
+6,F,Blake GriffinDetPF,NY,W 115-108,36,4,5,0,0,30,5.20,99.4,-0.1,6,43,2018-11-27
+7,UTIL,DeAndre JordanDalC,,,,,,,,,2.18,97.9,-0.3,6,43,2018-11-27
+8,UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,2.99,83.3,-4.5,6,43,2018-11-27
+9,UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,0.76,66.9,+0.8,6,43,2018-11-27
+10,Bench,"Jrue HolidayNoPG, SG",,,,,,,,,11.51,99.0,-0.1,6,43,2018-11-27
+11,Bench,"Julius RandleNoPF, C",,,,,,,,,6.66,97.2,+1.0,6,43,2018-11-27
+12,Bench,Tobias HarrisLACPF,,,,,,,,,3.08,94.5,+0.4,6,43,2018-11-27

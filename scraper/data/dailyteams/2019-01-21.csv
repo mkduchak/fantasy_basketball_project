@@ -1,0 +1,80 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,Nikola VucevicOrlC,@Atl,W 122-103,35,14,2,0,2,29,4.36,97.8,-1.4,1,98,2019-01-21
+G,Eric BledsoeMilPG,Dal,W 116-106,33,4,5,2,0,21,3.63,96.5,0.0,1,98,2019-01-21
+G,De'Aaron FoxSacPG,@Bkn,L 94-123,29,3,6,1,0,9,8.07,97.3,-1.0,1,98,2019-01-21
+G,Kris DunnOChiPG,@Cle,W 104-88,31,4,9,2,0,13,-5.20,50.8,-1.1,1,98,2019-01-21
+F,"Giannis AntetokounmpoMilPF, SF",Dal,W 116-106,36,15,5,0,0,31,4.84,99.8,-0.1,1,98,2019-01-21
+F,John CollinsAtlPF,Orl,L 103-122,32,10,3,0,0,14,3.81,95.9,-1.3,1,98,2019-01-21
+F,Empty,,,,,,,,,,,,1,98,2019-01-21
+UTIL,JaVale McGeeLALC,GS,L 111-130,19,9,1,0,0,10,7.27,70.8,-6.5,1,98,2019-01-21
+UTIL,DeMarcus CousinsGSC,@LAL,W 130-111,21,9,5,0,0,8,8.77,90.4,-3.7,1,98,2019-01-21
+UTIL,"D'Angelo RussellBknPG, SG",Sac,W 123-94,32,4,8,1,1,31,6.30,98.6,+0.2,1,98,2019-01-21
+Bench,"Nikola JokicDenC, PF",,,,,,,,,10.34,99.9,0.0,1,98,2019-01-21
+Bench,Ricky RubioOUtahPG,Por,L 104-109,14,2,2,1,0,12,-0.97,80.4,-4.9,1,98,2019-01-21
+Bench,"Serge IbakaOKCPF, C",@NY,W 127-109,,,,,,,3.34,85.3,-3.2,1,98,2019-01-21
+Bench,Pascal SiakamTorPF,,,,,,,,,1.39,91.4,-3.7,1,98,2019-01-21
+C,Myles TurnerIndC,,,,,,,,,6.53,88.1,-3.3,2,98,2019-01-21
+G,Stephen CurryGSPG,@LAL,W 130-111,30,5,12,1,0,11,8.07,99.8,-0.1,2,98,2019-01-21
+G,"Devin BookerOPhxSG, PG",,,,,,,,,1.12,84.7,-14.3,2,98,2019-01-21
+G,Klay ThompsonGSSG,@LAL,W 130-111,27,3,2,0,1,44,1.34,97.9,-1.5,2,98,2019-01-21
+F,Paul GeorgeDTDOKCSF,@NY,W 127-109,31,4,4,1,0,31,8.72,99.8,-0.1,2,98,2019-01-21
+F,"Luka DoncicDalSG, PF",@Mil,L 106-116,33,11,10,1,1,18,0.92,98.5,-0.2,2,98,2019-01-21
+F,Lauri MarkkanenChiPF,@Cle,W 104-88,32,8,0,0,0,13,,69.4,-1.4,2,98,2019-01-21
+UTIL,"Kevin DurantGSSF, PF",@LAL,W 130-111,30,6,4,0,3,20,7.33,99.9,0.0,2,98,2019-01-21
+UTIL,Kemba WalkerChaPG,,,,,,,,,7.08,99.9,0.0,2,98,2019-01-21
+UTIL,"Montrezl HarrellLACC, PF",,,,,,,,,3.59,89.7,-1.4,2,98,2019-01-21
+Bench,Andre DrummondDetC,@Wsh,L 87-101,,,,,,,18.90,99.7,0.0,2,98,2019-01-21
+Bench,Deandre AytonOPhxC,,,,,,,,,-2.35,84.9,-7.1,2,98,2019-01-21
+Bench,Robert CovingtonOMinSF,,,,,,,,,,25.4,-1.4,2,98,2019-01-21
+C,Brook LopezMilC,Dal,W 116-106,34,10,0,0,5,16,4.02,64.2,-4.3,3,98,2019-01-21
+G,Russell WestbrookOKCPG,@NY,W 127-109,29,10,9,0,0,17,15.16,99.9,0.0,3,98,2019-01-21
+G,Mike ConleyOMemPG,NO,L 85-105,37,4,8,4,0,20,-2.26,87.3,-9.2,3,98,2019-01-21
+G,Lonzo BallOLALPG,GS,L 111-130,,,,,,,,63.0,+0.7,3,98,2019-01-21
+F,"Khris MiddletonMilSF, SG",Dal,W 116-106,33,8,3,0,1,13,1.81,98.9,+0.5,3,98,2019-01-21
+F,"Draymond GreenDTDGSPF, C",@LAL,W 130-111,23,3,7,3,0,5,10.19,95.3,-1.2,3,98,2019-01-21
+F,"Josh RichardsonOMiaSF, SG",@Bos,L 99-107,32,1,3,4,0,11,-4.30,65.7,-4.6,3,98,2019-01-21
+UTIL,Bradley BealWshSG,Det,W 101-87,34,1,4,1,3,16,4.70,98.1,-1.7,3,98,2019-01-21
+UTIL,Rudy GobertDTDUtahC,Por,L 104-109,33,13,3,0,4,10,11.36,97.7,-1.2,3,98,2019-01-21
+UTIL,Aaron GordonOrlPF,@Atl,W 122-103,,,,,,,5.90,95.8,+0.1,3,98,2019-01-21
+Bench,Karl-Anthony TownsMinC,,,,,,,,,5.61,99.8,-0.1,3,98,2019-01-21
+Bench,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,98,2019-01-21
+Bench,Chris PaulHouPG,@Phi,L 93-121,,,,,,,7.78,97.8,-1.2,3,98,2019-01-21
+C,Steven AdamsOKCC,@NY,W 127-109,30,7,3,0,0,10,6.44,95.7,+0.3,4,98,2019-01-21
+G,"James HardenHouSG, PG",@Phi,L 93-121,31,6,3,1,2,37,9.59,99.8,-0.1,4,98,2019-01-21
+G,Zach LaVineOChiSG,@Cle,W 104-88,25,2,1,2,0,25,,80.6,-4.6,4,98,2019-01-21
+G,"Justise WinslowMiaSF, PG",@Bos,L 99-107,28,5,6,1,0,8,1.09,24.4,+2.4,4,98,2019-01-21
+F,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,98,2019-01-21
+F,"Jayson TatumBosSF, PF",Mia,W 107-99,31,6,1,0,0,19,1.38,93.8,-4.2,4,98,2019-01-21
+F,"Domantas SabonisIndPF, C",,,,,,,,,3.36,91.8,-1.5,4,98,2019-01-21
+UTIL,Joel EmbiidDTDPhiC,Hou,W 121-93,27,14,2,2,3,32,3.83,99.7,0.0,4,98,2019-01-21
+UTIL,Jarrett AllenBknC,Sac,W 123-94,23,12,1,0,0,8,2.16,81.5,+1.5,4,98,2019-01-21
+UTIL,Jusuf NurkicOPorC,@Utah,W 109-104,32,8,7,1,6,22,,65.9,-1.1,4,98,2019-01-21
+Bench,Victor OladipoOIndSG,,,,,,,,,,53.3,+2.0,4,98,2019-01-21
+Bench,Kyle LowryTorPG,,,,,,,,,4.23,97.1,-1.6,4,98,2019-01-21
+Bench,Jeff TeagueOMinPG,,,,,,,,,,56.1,-0.5,4,98,2019-01-21
+C,Hassan WhitesideMiaC,@Bos,L 99-107,20,8,1,1,1,6,4.61,91.6,+1.7,5,98,2019-01-21
+G,Kyrie IrvingBosPG,Mia,W 107-99,34,3,10,8,1,26,2.31,96.0,-3.5,5,98,2019-01-21
+G,"Donovan MitchellDTDUtahSG, PG",Por,L 104-109,34,7,5,1,0,36,6.01,98.5,-0.5,5,98,2019-01-21
+G,Trae YoungAtlPG,Orl,L 103-122,29,3,6,0,0,21,6.33,97.0,-0.6,5,98,2019-01-21
+F,"Kyle KuzmaOLALPF, SF",GS,L 111-130,33,2,2,0,0,16,-3.39,84.4,-7.3,5,98,2019-01-21
+F,Harrison BarnesSacPF,@Bkn,L 94-123,31,3,1,0,0,8,0.36,84.9,-0.7,5,98,2019-01-21
+F,Nikola MiroticOMilPF,Dal,W 116-106,32,6,1,1,2,21,-5.20,57.3,-1.0,5,98,2019-01-21
+UTIL,Damian LillardPorPG,@Utah,W 109-104,36,8,8,0,0,26,7.24,99.8,-0.1,5,98,2019-01-21
+UTIL,Marc GasolTorC,,,35,8,6,1,0,22,3.00,94.0,-1.5,5,98,2019-01-21
+UTIL,Willie Cauley-SteinSacC,@Bkn,L 94-123,27,6,2,0,0,12,2.06,87.7,-1.8,5,98,2019-01-21
+Bench,"Anthony DavisONOPF, C",@Mem,W 105-85,,,,,,,-5.20,91.0,-6.3,5,98,2019-01-21
+Bench,Kawhi LeonardSASF,,,,,,,,,1.20,98.8,-0.6,5,98,2019-01-21
+Bench,"Danilo GallinariLACSF, PF",,,,,,,,,2.41,92.5,-3.1,5,98,2019-01-21
+C,Enes KanterPorC,@Utah,W 109-104,19,3,1,0,0,11,6.60,92.0,+2.7,6,98,2019-01-21
+G,"Jimmy ButlerPhiSG, SF",Hou,W 121-93,,,,,,,-0.19,97.7,-1.7,6,98,2019-01-21
+G,CJ McCollumPorSG,@Utah,W 109-104,38,4,4,1,0,14,-3.19,89.1,+4.0,6,98,2019-01-21
+G,"Jamal MurrayDenPG, SG",,,,,,,,,7.01,95.6,-0.1,6,98,2019-01-21
+F,"LeBron JamesOCleSF, PF",Chi,L 88-104,,,,,,,-3.82,85.5,-2.8,6,98,2019-01-21
+F,"Ben SimmonsDTDPhiPG, SF",Hou,W 121-93,28,6,6,1,2,9,8.18,98.4,-1.4,6,98,2019-01-21
+F,Blake GriffinDTDDetPF,@Wsh,L 87-101,36,9,4,0,0,29,0.18,97.2,-1.3,6,98,2019-01-21
+UTIL,DeAndre JordanLACC,,,31,15,1,0,2,15,-4.50,86.6,-3.8,6,98,2019-01-21
+UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,5.65,92.1,+1.6,6,98,2019-01-21
+UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,-2.03,64.4,+0.4,6,98,2019-01-21
+Bench,"Jrue HolidayONOPG, SG",@Mem,W 105-85,39,11,6,2,0,21,,75.9,-1.0,6,98,2019-01-21
+Bench,"Julius RandleNOPF, C",@Mem,W 105-85,27,12,5,2,0,20,1.38,95.3,-3.6,6,98,2019-01-21
+Bench,"Tobias HarrisPhiPF, SF",Hou,W 121-93,,,,,,,2.47,97.4,-2.0,6,98,2019-01-21

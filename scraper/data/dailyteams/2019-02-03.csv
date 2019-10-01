@@ -1,0 +1,82 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,Nikola VucevicOrlC,,,,,,,,,4.36,97.8,-1.4,1,111,2019-02-03
+G,Eric BledsoeMilPG,,,,,,,,,3.63,96.5,0.0,1,111,2019-02-03
+G,De'Aaron FoxSacPG,,,,,,,,,8.07,97.3,-1.0,1,111,2019-02-03
+G,"D'Angelo RussellBknPG, SG",,,,,,,,,6.30,98.6,+0.2,1,111,2019-02-03
+F,"Jerami GrantOKCSF, PF",@Bos,L 129-134,33,3,0,1,1,15,4.03,71.8,+1.9,1,111,2019-02-03
+F,Empty,,,,,,,,,,,,1,111,2019-02-03
+F,Empty,,,,,,,,,,,,1,111,2019-02-03
+UTIL,DeMarcus CousinsGSC,,,,,,,,,8.77,90.4,-3.7,1,111,2019-02-03
+UTIL,Kris DunnOChiPG,,,,,,,,,-5.20,50.8,-1.1,1,111,2019-02-03
+UTIL,Empty,,,,,,,,,,,,1,111,2019-02-03
+Bench,"Giannis AntetokounmpoMilPF, SF",,,,,,,,,4.84,99.8,-0.1,1,111,2019-02-03
+Bench,"Nikola JokicDenC, PF",,,,,,,,,10.34,99.9,0.0,1,111,2019-02-03
+Bench,Darren CollisonIndPG,,,,,,,,,0.46,57.0,-2.8,1,111,2019-02-03
+Bench,Kelly Oubre Jr.OPhxSF,,,,,,,,,,18.0,-2.7,1,111,2019-02-03
+Bench,PJ TuckerHouSF,,,,,,,,,0.81,6.4,-1.6,1,111,2019-02-03
+Bench,"Kenneth FariedHouPF, C",,,,,,,,,-1.76,12.5,-1.7,1,111,2019-02-03
+C,Al HorfordDTDBosC,OKC,W 134-129,31,2,9,2,1,17,3.25,89.6,-3.4,2,111,2019-02-03
+G,Kemba WalkerChaPG,,,,,,,,,7.08,99.9,0.0,2,111,2019-02-03
+G,Patrick BeverleyLACPG,@Tor,L 103-121,30,2,2,0,0,12,-2.67,15.8,-4.5,2,111,2019-02-03
+G,"Shai Gilgeous-AlexanderLACPG, SG",@Tor,L 103-121,26,5,3,1,2,19,5.46,39.6,+0.6,2,111,2019-02-03
+F,Paul GeorgeDTDOKCSF,@Bos,L 129-134,39,4,4,1,1,37,8.72,99.8,-0.1,2,111,2019-02-03
+F,"Luka DoncicDalSG, PF",,,,,,,,,0.92,98.5,-0.2,2,111,2019-02-03
+F,Lauri MarkkanenChiPF,,,,,,,,,,69.4,-1.4,2,111,2019-02-03
+UTIL,Stephen CurryGSPG,,,,,,,,,8.07,99.8,-0.1,2,111,2019-02-03
+UTIL,Myles TurnerIndC,,,,,,,,,6.53,88.1,-3.3,2,111,2019-02-03
+UTIL,Jahlil OkaforNOC,,,,,,,,,2.22,5.9,-0.3,2,111,2019-02-03
+Bench,"Kevin DurantGSSF, PF",,,,,,,,,7.33,99.9,0.0,2,111,2019-02-03
+Bench,Andre DrummondDetC,,,,,,,,,18.90,99.7,0.0,2,111,2019-02-03
+Bench,"Devin BookerOPhxSG, PG",,,,,,,,,1.12,84.7,-14.3,2,111,2019-02-03
+C,Rudy GobertDTDUtahC,,,,,,,,,11.36,97.7,-1.2,3,111,2019-02-03
+G,Chris PaulHouPG,,,,,,,,,7.78,97.8,-1.2,3,111,2019-02-03
+G,Bradley BealWshSG,,,,,,,,,4.70,98.1,-1.7,3,111,2019-02-03
+G,Buddy HieldSacSG,,,,,,,,,4.12,95.9,-0.5,3,111,2019-02-03
+F,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,111,2019-02-03
+F,"Khris MiddletonMilSF, SG",,,,,,,,,1.81,98.9,+0.5,3,111,2019-02-03
+F,"Draymond GreenDTDGSPF, C",,,,,,,,,10.19,95.3,-1.2,3,111,2019-02-03
+UTIL,Karl-Anthony TownsMinC,,,,,,,,,5.61,99.8,-0.1,3,111,2019-02-03
+UTIL,Aaron GordonOrlPF,,,,,,,,,5.90,95.8,+0.1,3,111,2019-02-03
+UTIL,Brook LopezMilC,,,,,,,,,4.02,64.2,-4.3,3,111,2019-02-03
+Bench,Russell WestbrookOKCPG,@Bos,L 129-134,37,12,16,2,0,22,15.16,99.9,0.0,3,111,2019-02-03
+Bench,Mike ConleyOMemPG,@NY,W 96-84,34,8,7,3,1,25,-2.26,87.3,-9.2,3,111,2019-02-03
+Bench,"Josh RichardsonOMiaSF, SG",,,,,,,,,-4.30,65.7,-4.6,3,111,2019-02-03
+C,Steven AdamsOKCC,@Bos,L 129-134,36,9,0,2,0,16,6.44,95.7,+0.3,4,111,2019-02-03
+G,"James HardenHouSG, PG",,,,,,,,,9.59,99.8,-0.1,4,111,2019-02-03
+G,Kyle LowryTorPG,LAC,W 121-103,,,,,,,4.23,97.1,-1.6,4,111,2019-02-03
+G,Lou WilliamsLACSG,@Tor,L 103-121,21,2,3,0,0,18,2.44,95.9,-0.9,4,111,2019-02-03
+F,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,111,2019-02-03
+F,"Jayson TatumBosSF, PF",OKC,W 134-129,31,7,2,2,2,11,1.38,93.8,-4.2,4,111,2019-02-03
+F,"Domantas SabonisIndPF, C",,,,,,,,,3.36,91.8,-1.5,4,111,2019-02-03
+UTIL,Joel EmbiidDTDPhiC,,,,,,,,,3.83,99.7,0.0,4,111,2019-02-03
+UTIL,Jarrett AllenBknC,,,,,,,,,2.16,81.5,+1.5,4,111,2019-02-03
+UTIL,Rajon RondoLALPG,,,,,,,,,6.19,45.0,-13.6,4,111,2019-02-03
+Bench,Jusuf NurkicOPorC,,,,,,,,,,65.9,-1.1,4,111,2019-02-03
+Bench,"Justise WinslowMiaSF, PG",,,,,,,,,1.09,24.4,+2.4,4,111,2019-02-03
+Bench,"Brandon IngramOLALSF, SG",,,,,,,,,,65.5,+0.7,4,111,2019-02-03
+C,Hassan WhitesideMiaC,,,,,,,,,4.61,91.6,+1.7,5,111,2019-02-03
+G,"Donovan MitchellDTDUtahSG, PG",,,,,,,,,6.01,98.5,-0.5,5,111,2019-02-03
+G,Trae YoungAtlPG,,,,,,,,,6.33,97.0,-0.6,5,111,2019-02-03
+G,Zach LaVineOChiSG,,,,,,,,,,80.6,-4.6,5,111,2019-02-03
+F,Kawhi LeonardTorSF,LAC,W 121-103,26,5,2,0,0,18,1.20,98.8,-0.6,5,111,2019-02-03
+F,"Kyle KuzmaOLALPF, SF",,,,,,,,,-3.39,84.4,-7.3,5,111,2019-02-03
+F,Harrison BarnesSacPF,,,,,,,,,0.36,84.9,-0.7,5,111,2019-02-03
+UTIL,"Anthony DavisONOPF, C",,,,,,,,,-5.20,91.0,-6.3,5,111,2019-02-03
+UTIL,Kyrie IrvingBosPG,OKC,W 134-129,37,4,11,0,1,30,2.31,96.0,-3.5,5,111,2019-02-03
+UTIL,Marc GasolTorC,LAC,W 121-103,32,9,5,1,0,24,3.00,94.0,-1.5,5,111,2019-02-03
+Bench,Damian LillardPorPG,,,,,,,,,7.24,99.8,-0.1,5,111,2019-02-03
+Bench,Willie Cauley-SteinSacC,,,,,,,,,2.06,87.7,-1.8,5,111,2019-02-03
+Bench,John CollinsAtlPF,,,,,,,,,3.81,95.9,-1.3,5,111,2019-02-03
+C,Enes KanterPorC,,,,,,,,,6.60,92.0,+2.7,6,111,2019-02-03
+G,"Jimmy ButlerPhiSG, SF",,,,,,,,,-0.19,97.7,-1.7,6,111,2019-02-03
+G,CJ McCollumPorSG,,,,,,,,,-3.19,89.1,+4.0,6,111,2019-02-03
+G,"Jamal MurrayDenPG, SG",,,,,,,,,7.01,95.6,-0.1,6,111,2019-02-03
+F,"LeBron JamesOLALSF, PF",,,,,,,,,-3.82,85.5,-2.8,6,111,2019-02-03
+F,"Ben SimmonsDTDPhiPG, SF",,,,,,,,,8.18,98.4,-1.4,6,111,2019-02-03
+F,Blake GriffinDTDDetPF,,,,,,,,,0.18,97.2,-1.3,6,111,2019-02-03
+UTIL,DeAndre JordanNYC,Mem,L 84-96,29,12,2,1,1,12,-4.50,86.6,-3.8,6,111,2019-02-03
+UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,5.65,92.1,+1.6,6,111,2019-02-03
+UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,-2.03,64.4,+0.4,6,111,2019-02-03
+Bench,"Jrue HolidayONOPG, SG",,,,,,,,,,75.9,-1.0,6,111,2019-02-03
+Bench,"Julius RandleNOPF, C",,,,,,,,,1.38,95.3,-3.6,6,111,2019-02-03
+Bench,"Tobias HarrisPhiPF, SF",,,31,4,2,1,0,13,2.47,97.4,-2.0,6,111,2019-02-03

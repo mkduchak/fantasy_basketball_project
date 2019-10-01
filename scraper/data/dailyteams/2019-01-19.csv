@@ -1,0 +1,79 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,Nikola VucevicOrlC,Mil,L 108-118,30,6,4,0,2,27,4.36,97.8,-1.4,1,96,2019-01-19
+G,Eric BledsoeMilPG,@Orl,W 118-108,31,7,2,0,0,30,3.63,96.5,0.0,1,96,2019-01-19
+G,De'Aaron FoxSacPG,@Det,W 103-101,35,6,10,1,0,14,8.07,97.3,-1.0,1,96,2019-01-19
+G,Kris DunnOChiPG,Mia,L 103-117,33,4,5,2,0,6,-5.20,50.8,-1.1,1,96,2019-01-19
+F,"Giannis AntetokounmpoMilPF, SF",@Orl,W 118-108,32,13,5,2,0,25,4.84,99.8,-0.1,1,96,2019-01-19
+F,"Nikola JokicDenC, PF",Cle,W 124-102,28,11,12,1,0,19,10.34,99.9,0.0,1,96,2019-01-19
+F,"Serge IbakaOKCPF, C",@Phi,W 117-115,26,5,0,0,1,18,3.34,85.3,-3.2,1,96,2019-01-19
+UTIL,John CollinsAtlPF,Bos,L 105-113,29,11,3,0,0,15,3.81,95.9,-1.3,1,96,2019-01-19
+UTIL,JaVale McGeeLALC,@Hou,L 134-138,16,14,1,1,1,12,7.27,70.8,-6.5,1,96,2019-01-19
+UTIL,Pascal SiakamTorPF,Mem,W 119-90,29,8,2,1,0,17,1.39,91.4,-3.7,1,96,2019-01-19
+Bench,Ricky RubioOUtahPG,,,,,,,,,-0.97,80.4,-4.9,1,96,2019-01-19
+Bench,DeMarcus CousinsGSC,,,,,,,,,8.77,90.4,-3.7,1,96,2019-01-19
+Bench,"D'Angelo RussellBknPG, SG",,,,,,,,,6.30,98.6,+0.2,1,96,2019-01-19
+C,Myles TurnerIndC,Dal,W 111-99,25,3,0,1,3,12,6.53,88.1,-3.3,2,96,2019-01-19
+G,Stephen CurryGSPG,,,,,,,,,8.07,99.8,-0.1,2,96,2019-01-19
+G,Kemba WalkerChaPG,Phx,W 135-115,33,8,3,2,1,21,7.08,99.9,0.0,2,96,2019-01-19
+G,"Devin BookerOPhxSG, PG",@Cha,L 115-135,38,2,11,0,0,32,1.12,84.7,-14.3,2,96,2019-01-19
+F,Paul GeorgeDTDOKCSF,@Phi,W 117-115,40,6,5,3,0,31,8.72,99.8,-0.1,2,96,2019-01-19
+F,"Luka DoncicDalSG, PF",@Ind,L 99-111,24,5,6,3,0,8,0.92,98.5,-0.2,2,96,2019-01-19
+F,Lauri MarkkanenChiPF,Mia,L 103-117,34,9,0,2,1,20,,69.4,-1.4,2,96,2019-01-19
+UTIL,"Kevin DurantGSSF, PF",,,,,,,,,7.33,99.9,0.0,2,96,2019-01-19
+UTIL,Deandre AytonOPhxC,@Cha,L 115-135,22,2,0,1,1,10,-2.35,84.9,-7.1,2,96,2019-01-19
+UTIL,"Montrezl HarrellLACC, PF",,,,,,,,,3.59,89.7,-1.4,2,96,2019-01-19
+Bench,Andre DrummondDetC,Sac,L 101-103,,,,,,,18.90,99.7,0.0,2,96,2019-01-19
+Bench,Klay ThompsonGSSG,,,,,,,,,1.34,97.9,-1.5,2,96,2019-01-19
+Bench,Robert CovingtonOMinSF,,,,,,,,,,25.4,-1.4,2,96,2019-01-19
+C,Brook LopezMilC,@Orl,W 118-108,27,4,1,0,6,8,4.02,64.2,-4.3,3,96,2019-01-19
+G,Russell WestbrookOKCPG,@Phi,W 117-115,37,10,6,1,0,21,15.16,99.9,0.0,3,96,2019-01-19
+G,Mike ConleyOMemPG,@Tor,L 90-119,22,2,3,1,0,10,-2.26,87.3,-9.2,3,96,2019-01-19
+G,Lonzo BallOLALPG,@Hou,L 134-138,22,3,11,1,1,8,,63.0,+0.7,3,96,2019-01-19
+F,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,96,2019-01-19
+F,"Khris MiddletonMilSF, SG",@Orl,W 118-108,28,3,3,0,0,15,1.81,98.9,+0.5,3,96,2019-01-19
+F,"Josh RichardsonOMiaSF, SG",@Chi,W 117-103,30,3,2,0,0,26,-4.30,65.7,-4.6,3,96,2019-01-19
+UTIL,Karl-Anthony TownsMinC,,,,,,,,,5.61,99.8,-0.1,3,96,2019-01-19
+UTIL,Bradley BealWshSG,,,,,,,,,4.70,98.1,-1.7,3,96,2019-01-19
+UTIL,Aaron GordonOrlPF,Mil,L 108-118,,,,,,,5.90,95.8,+0.1,3,96,2019-01-19
+Bench,Chris PaulHouPG,LAL,W 138-134,,,,,,,7.78,97.8,-1.2,3,96,2019-01-19
+Bench,Rudy GobertDTDUtahC,,,,,,,,,11.36,97.7,-1.2,3,96,2019-01-19
+Bench,"Draymond GreenDTDGSPF, C",,,,,,,,,10.19,95.3,-1.2,3,96,2019-01-19
+C,Steven AdamsOKCC,@Phi,W 117-115,36,9,3,1,2,16,6.44,95.7,+0.3,4,96,2019-01-19
+G,"James HardenHouSG, PG",LAL,W 138-134,42,8,6,4,1,48,9.59,99.8,-0.1,4,96,2019-01-19
+G,Victor OladipoOIndSG,Dal,W 111-99,32,8,6,3,0,12,,53.3,+2.0,4,96,2019-01-19
+G,Kyle LowryTorPG,Mem,W 119-90,29,4,7,2,1,12,4.23,97.1,-1.6,4,96,2019-01-19
+F,"Jayson TatumBosSF, PF",@Atl,W 113-105,35,5,2,1,3,19,1.38,93.8,-4.2,4,96,2019-01-19
+F,"Domantas SabonisIndPF, C",Dal,W 111-99,27,11,2,0,0,16,3.36,91.8,-1.5,4,96,2019-01-19
+F,"Justise WinslowMiaSF, PG",@Chi,W 117-103,25,5,4,1,0,11,1.09,24.4,+2.4,4,96,2019-01-19
+UTIL,Joel EmbiidDTDPhiC,OKC,L 115-117,34,8,6,0,1,31,3.83,99.7,0.0,4,96,2019-01-19
+UTIL,Jusuf NurkicOPorC,,,,,,,,,,65.9,-1.1,4,96,2019-01-19
+UTIL,Zach LaVineOChiSG,Mia,L 103-117,35,3,6,1,0,22,,80.6,-4.6,4,96,2019-01-19
+Bench,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,96,2019-01-19
+Bench,Jarrett AllenBknC,,,,,,,,,2.16,81.5,+1.5,4,96,2019-01-19
+Bench,Jeff TeagueOMinPG,,,,,,,,,,56.1,-0.5,4,96,2019-01-19
+C,"Anthony DavisONOPF, C",,,,,,,,,-5.20,91.0,-6.3,5,96,2019-01-19
+G,Kyrie IrvingBosPG,@Atl,W 113-105,37,3,5,1,0,32,2.31,96.0,-3.5,5,96,2019-01-19
+G,"Donovan MitchellDTDUtahSG, PG",,,,,,,,,6.01,98.5,-0.5,5,96,2019-01-19
+G,Trae YoungAtlPG,Bos,L 105-113,34,1,7,1,0,16,6.33,97.0,-0.6,5,96,2019-01-19
+F,Kawhi LeonardSASF,,,,,,,,,1.20,98.8,-0.6,5,96,2019-01-19
+F,"Kyle KuzmaOLALPF, SF",@Hou,L 134-138,44,8,3,2,0,32,-3.39,84.4,-7.3,5,96,2019-01-19
+F,Harrison BarnesSacPF,@Det,W 103-101,32,3,2,0,0,20,0.36,84.9,-0.7,5,96,2019-01-19
+UTIL,Hassan WhitesideMiaC,@Chi,W 117-103,25,10,3,0,3,6,4.61,91.6,+1.7,5,96,2019-01-19
+UTIL,Marc GasolTorC,Mem,W 119-90,,,,,,,3.00,94.0,-1.5,5,96,2019-01-19
+UTIL,Willie Cauley-SteinSacC,@Det,W 103-101,24,6,2,0,0,12,2.06,87.7,-1.8,5,96,2019-01-19
+Bench,Damian LillardPorPG,,,,,,,,,7.24,99.8,-0.1,5,96,2019-01-19
+Bench,Clint CapelaDTDHouC,LAL,W 138-134,,,,,,,7.18,96.8,-2.1,5,96,2019-01-19
+Bench,"Danilo GallinariLACSF, PF",,,,,,,,,2.41,92.5,-3.1,5,96,2019-01-19
+C,Enes KanterPorC,,,,,,,,,6.60,92.0,+2.7,6,96,2019-01-19
+G,"Jimmy ButlerPhiSG, SF",OKC,L 115-117,38,3,4,2,2,18,-0.19,97.7,-1.7,6,96,2019-01-19
+G,CJ McCollumPorSG,,,,,,,,,-3.19,89.1,+4.0,6,96,2019-01-19
+G,"Jamal MurrayDenPG, SG",Cle,W 124-102,25,2,5,0,0,26,7.01,95.6,-0.1,6,96,2019-01-19
+F,"LeBron JamesOCleSF, PF",@Den,L 102-124,,,,,,,-3.82,85.5,-2.8,6,96,2019-01-19
+F,"Ben SimmonsDTDPhiPG, SF",OKC,L 115-117,36,14,9,0,1,20,8.18,98.4,-1.4,6,96,2019-01-19
+F,Blake GriffinDTDDetPF,Sac,L 101-103,38,6,3,3,0,38,0.18,97.2,-1.3,6,96,2019-01-19
+UTIL,DeAndre JordanLACC,,,31,16,0,0,0,15,-4.50,86.6,-3.8,6,96,2019-01-19
+UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,5.65,92.1,+1.6,6,96,2019-01-19
+UTIL,"Nicolas BatumChaSG, SF",Phx,W 135-115,32,3,6,1,0,15,-2.03,64.4,+0.4,6,96,2019-01-19
+Bench,"Jrue HolidayONOPG, SG",,,,,,,,,,75.9,-1.0,6,96,2019-01-19
+Bench,"Julius RandleNOPF, C",,,,,,,,,1.38,95.3,-3.6,6,96,2019-01-19
+Bench,"Tobias HarrisPhiPF, SF",OKC,L 115-117,,,,,,,2.47,97.4,-2.0,6,96,2019-01-19

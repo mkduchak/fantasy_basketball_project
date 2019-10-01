@@ -1,80 +1,80 @@
-pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%OWN,+/-,team_id,scoring_period,date
-C,Nikola JokicDenC,,,,,,,,,9.34,99.7,-0.1,1,24,2018-11-08
-G,John WallWshPG,,,,,,,,,8.61,99.4,-0.1,1,24,2018-11-08
-G,Ricky RubioUtahPG,,,,,,,,,6.79,88.5,+0.7,1,24,2018-11-08
-G,Eric BledsoeMilPG,@GS,W 134-111,26,4,6,1,0,26,6.40,84.2,-0.3,1,24,2018-11-08
-F,"Giannis AntetokounmpoMilPF, SF",@GS,W 134-111,26,9,4,2,2,24,12.01,100.0,0.0,1,24,2018-11-08
-F,Nikola MiroticNoPF,,,,,,,,,5.31,79.0,-0.7,1,24,2018-11-08
-F,"Wendell Carter Jr.ChiPF, C",,,,,,,,,2.30,69.8,-2.1,1,24,2018-11-08
-UTIL,Nikola VucevicOrlC,,,,,,,,,8.67,89.2,+1.1,1,24,2018-11-08
-UTIL,"Serge IbakaTorPF, C",,,,,,,,,4.84,64.8,-6.7,1,24,2018-11-08
-UTIL,JaVale McGeeLALC,,,,,,,,,5.51,34.3,-6.6,1,24,2018-11-08
-Bench,"Draymond GreenOGSPF, C",Mil,L 111-134,,,,,,,-3.77,94.6,-2.4,1,24,2018-11-08
-Bench,Lonzo BallDTDLALPG,,,,,,,,,2.53,87.9,+2.1,1,24,2018-11-08
-Bench,John CollinsAtlPF,,,,,,,,,0.82,88.4,+3.9,1,24,2018-11-08
-C,Andre DrummondDetC,,,,,,,,,7.92,99.6,0.0,2,24,2018-11-08
-G,Stephen CurryOGSPG,Mil,L 111-134,26,1,6,0,0,10,-3.95,99.8,-0.1,2,24,2018-11-08
-G,"Devin BookerDTDPhxSG, PG",Bos,L 109-116,43,3,9,3,0,38,7.07,99.3,+0.4,2,24,2018-11-08
-G,Gary HarrisDTDDenSG,,,,,,,,,2.84,63.5,-7.1,2,24,2018-11-08
-F,"Kevin DurantGSSF, PF",Mil,L 111-134,31,5,9,0,1,17,12.56,99.9,0.0,2,24,2018-11-08
-F,Paul GeorgeOKCSF,Hou,W 98-80,35,11,6,6,0,20,8.26,99.7,-0.1,2,24,2018-11-08
-F,Robert CovingtonMinSF,,,,,,,,,6.92,26.2,-4.8,2,24,2018-11-08
-UTIL,Deandre AytonPhxC,Bos,L 109-116,38,10,1,0,1,14,4.69,96.0,+0.5,2,24,2018-11-08
-UTIL,Klay ThompsonGSSG,Mil,L 111-134,33,3,3,1,2,24,5.40,96.0,-0.1,2,24,2018-11-08
-UTIL,Myles TurnerIndC,,,,,,,,,6.93,74.3,+0.2,2,24,2018-11-08
-Bench,Kemba WalkerChaPG,,,,,,,,,8.31,99.7,0.0,2,24,2018-11-08
-Bench,Dwight HowardOWshC,,,,,,,,,-2.02,84.4,-5.5,2,24,2018-11-08
-Bench,"Luka DoncicDalSG, PF",,,,,,,,,2.90,94.5,-0.6,2,24,2018-11-08
-C,Karl-Anthony TownsMinC,,,,,,,,,6.41,99.8,-0.1,3,24,2018-11-08
-G,Chris PaulOHouPG,@OKC,L 80-98,36,2,5,6,0,10,3.19,98.6,-1.0,3,24,2018-11-08
-G,Bradley BealWshSG,,,,,,,,,6.10,99.0,0.0,3,24,2018-11-08
-G,Zach LaVineChiSG,,,,,,,,,3.49,91.0,-0.2,3,24,2018-11-08
-F,"LaMarcus AldridgeSAPF, C",,,,,,,,,7.62,99.3,-0.2,3,24,2018-11-08
-F,Khris MiddletonMilSF,@GS,W 134-111,29,3,6,3,1,17,4.81,98.7,-0.3,3,24,2018-11-08
-F,"Gordon HaywardBosSF, SG",@Phx,W 116-109,25,4,2,0,0,8,4.97,92.0,-0.7,3,24,2018-11-08
-UTIL,Rudy GobertUtahC,,,,,,,,,6.96,95.7,-1.4,3,24,2018-11-08
-UTIL,Aaron GordonDTDOrlPF,,,,,,,,,4.69,83.4,-2.2,3,24,2018-11-08
-UTIL,De'Aaron FoxSacPG,,,,,,,,,3.79,84.9,-2.9,3,24,2018-11-08
-Bench,Russell WestbrookOKCPG,Hou,W 98-80,,,,,,,4.52,99.8,-0.1,3,24,2018-11-08
-Bench,Mike ConleyMemPG,,,,,,,,,7.96,92.1,+1.4,3,24,2018-11-08
-Bench,"Kyle KuzmaLALPF, SF",,,,,,,,,1.98,84.6,-0.7,3,24,2018-11-08
-C,Joel EmbiidPhiC,,,,,,,,,10.31,99.9,0.0,4,24,2018-11-08
-G,"James HardenHouSG, PG",@OKC,L 80-98,38,8,5,2,1,19,11.34,99.9,0.0,4,24,2018-11-08
-G,Victor OladipoOIndSG,,,,,,,,,-3.43,98.3,-1.1,4,24,2018-11-08
-G,Kyle LowryTorPG,,,,,,,,,6.80,99.6,0.0,4,24,2018-11-08
-F,"DeMar DeRozanSASG, SF",,,,,,,,,6.70,99.6,-0.2,4,24,2018-11-08
-F,"Jayson TatumBosSF, PF",@Phx,W 116-109,30,8,2,1,0,4,4.89,98.5,0.0,4,24,2018-11-08
-F,"Caris LeVertOBknSF, SG",,,,,,,,,-3.91,7.1,-2.7,4,24,2018-11-08
-UTIL,Steven AdamsOKCC,Hou,W 98-80,32,10,4,1,0,19,3.89,80.6,-0.3,4,24,2018-11-08
-UTIL,Jarrett AllenBknC,,,,,,,,,2.46,65.0,+0.3,4,24,2018-11-08
-UTIL,Jusuf NurkicPorC,LAC,W 116-105,23,9,1,0,3,16,6.69,75.6,-2.3,4,24,2018-11-08
-Bench,"Tim Hardaway Jr.NYSG, SF",,,,,,,,,4.32,79.7,-1.3,4,24,2018-11-08
-Bench,"Jerami GrantOKCSF, PF",Hou,W 98-80,34,6,2,0,0,11,1.01,51.8,+0.7,4,24,2018-11-08
-Bench,Elfrid PaytonONoPG,,,,,,,,,-4.34,65.2,-0.6,4,24,2018-11-08
-C,Al HorfordBosC,@Phx,W 116-109,33,6,3,0,4,7,6.15,85.6,-0.3,5,24,2018-11-08
-G,Damian LillardPorPG,LAC,W 116-105,35,4,4,1,1,25,6.72,99.8,-0.1,5,24,2018-11-08
-G,Kyrie IrvingBosPG,@Phx,W 116-109,43,7,6,3,1,39,11.53,99.5,-0.2,5,24,2018-11-08
-G,Trae YoungAtlPG,,,,,,,,,5.40,82.1,-3.2,5,24,2018-11-08
-F,"Anthony DavisNoPF, C",,,,,,,,,14.17,99.9,0.0,5,24,2018-11-08
-F,Joe InglesUtahSF,,,,,,,,,4.52,42.7,-6.5,5,24,2018-11-08
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,"Nikola JokicDenC, PF",,,,,,,,,10.34,99.9,0.0,1,24,2018-11-08
+G,John WallOWshPG,,,,,,,,,,55.3,+2.2,1,24,2018-11-08
+G,Ricky RubioOUtahPG,,,,,,,,,-0.97,80.4,-4.9,1,24,2018-11-08
+G,Eric BledsoeMilPG,@GS,W 134-111,26,4,6,1,0,26,3.63,96.5,0.0,1,24,2018-11-08
+F,"Giannis AntetokounmpoMilPF, SF",@GS,W 134-111,26,9,4,2,2,24,4.84,99.8,-0.1,1,24,2018-11-08
+F,Nikola MiroticOMilPF,@GS,W 134-111,,,,,,,-5.20,57.3,-1.0,1,24,2018-11-08
+F,"Wendell Carter Jr.OChiPF, C",,,,,,,,,-5.20,48.4,+1.0,1,24,2018-11-08
+UTIL,Nikola VucevicOrlC,,,,,,,,,4.36,97.8,-1.4,1,24,2018-11-08
+UTIL,"Serge IbakaOKCPF, C",Hou,W 98-80,,,,,,,3.34,85.3,-3.2,1,24,2018-11-08
+UTIL,JaVale McGeeLALC,,,,,,,,,7.27,70.8,-6.5,1,24,2018-11-08
+Bench,"Draymond GreenDTDGSPF, C",Mil,L 111-134,,,,,,,10.19,95.3,-1.2,1,24,2018-11-08
+Bench,Lonzo BallOLALPG,,,,,,,,,,63.0,+0.7,1,24,2018-11-08
+Bench,John CollinsAtlPF,,,,,,,,,3.81,95.9,-1.3,1,24,2018-11-08
+C,Andre DrummondDetC,,,,,,,,,18.90,99.7,0.0,2,24,2018-11-08
+G,Stephen CurryGSPG,Mil,L 111-134,26,1,6,0,0,10,8.07,99.8,-0.1,2,24,2018-11-08
+G,"Devin BookerOPhxSG, PG",Bos,L 109-116,43,3,9,3,0,38,1.12,84.7,-14.3,2,24,2018-11-08
+G,Gary HarrisDenSG,,,,,,,,,2.16,55.4,-0.6,2,24,2018-11-08
+F,"Kevin DurantGSSF, PF",Mil,L 111-134,31,5,9,0,1,17,7.33,99.9,0.0,2,24,2018-11-08
+F,Paul GeorgeDTDOKCSF,Hou,W 98-80,35,11,6,6,0,20,8.72,99.8,-0.1,2,24,2018-11-08
+F,Robert CovingtonOMinSF,,,,,,,,,,25.4,-1.4,2,24,2018-11-08
+UTIL,Deandre AytonOPhxC,Bos,L 109-116,38,10,1,0,1,14,-2.35,84.9,-7.1,2,24,2018-11-08
+UTIL,Klay ThompsonGSSG,Mil,L 111-134,33,3,3,1,2,24,1.34,97.9,-1.5,2,24,2018-11-08
+UTIL,Myles TurnerIndC,,,,,,,,,6.53,88.1,-3.3,2,24,2018-11-08
+Bench,Kemba WalkerChaPG,,,,,,,,,7.08,99.9,0.0,2,24,2018-11-08
+Bench,Dwight HowardOOrlC,,,,,,,,,,54.1,+1.2,2,24,2018-11-08
+Bench,"Luka DoncicDalSG, PF",,,,,,,,,0.92,98.5,-0.2,2,24,2018-11-08
+C,Karl-Anthony TownsMinC,,,,,,,,,5.61,99.8,-0.1,3,24,2018-11-08
+G,Chris PaulHouPG,@OKC,L 80-98,36,2,5,6,0,10,7.78,97.8,-1.2,3,24,2018-11-08
+G,Bradley BealWshSG,,,,,,,,,4.70,98.1,-1.7,3,24,2018-11-08
+G,Zach LaVineOChiSG,,,,,,,,,,80.6,-4.6,3,24,2018-11-08
+F,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,24,2018-11-08
+F,"Khris MiddletonMilSF, SG",@GS,W 134-111,29,3,6,3,1,17,1.81,98.9,+0.5,3,24,2018-11-08
+F,"Gordon HaywardBosSF, SG",@Phx,W 116-109,25,4,2,0,0,8,1.91,84.4,-1.1,3,24,2018-11-08
+UTIL,Rudy GobertDTDUtahC,,,,,,,,,11.36,97.7,-1.2,3,24,2018-11-08
+UTIL,Aaron GordonOrlPF,,,,,,,,,5.90,95.8,+0.1,3,24,2018-11-08
+UTIL,De'Aaron FoxSacPG,,,,,,,,,8.07,97.3,-1.0,3,24,2018-11-08
+Bench,Russell WestbrookOKCPG,Hou,W 98-80,,,,,,,15.16,99.9,0.0,3,24,2018-11-08
+Bench,Mike ConleyOMemPG,,,,,,,,,-2.26,87.3,-9.2,3,24,2018-11-08
+Bench,"Kyle KuzmaOLALPF, SF",,,,,,,,,-3.39,84.4,-7.3,3,24,2018-11-08
+C,Joel EmbiidDTDPhiC,,,,,,,,,3.83,99.7,0.0,4,24,2018-11-08
+G,"James HardenHouSG, PG",@OKC,L 80-98,38,8,5,2,1,19,9.59,99.8,-0.1,4,24,2018-11-08
+G,Victor OladipoOIndSG,,,,,,,,,,53.3,+2.0,4,24,2018-11-08
+G,Kyle LowryTorPG,,,,,,,,,4.23,97.1,-1.6,4,24,2018-11-08
+F,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,24,2018-11-08
+F,"Jayson TatumBosSF, PF",@Phx,W 116-109,30,8,2,1,0,4,1.38,93.8,-4.2,4,24,2018-11-08
+F,"Caris LeVertBknSF, SG",,,,,,,,,3.12,39.7,+3.6,4,24,2018-11-08
+UTIL,Steven AdamsOKCC,Hou,W 98-80,32,10,4,1,0,19,6.44,95.7,+0.3,4,24,2018-11-08
+UTIL,Jarrett AllenBknC,,,,,,,,,2.16,81.5,+1.5,4,24,2018-11-08
+UTIL,Jusuf NurkicOPorC,LAC,W 116-105,23,9,1,0,3,16,,65.9,-1.1,4,24,2018-11-08
+Bench,"Tim Hardaway Jr.ODalSG, SF",,,,,,,,,,59.8,-0.7,4,24,2018-11-08
+Bench,"Jerami GrantOKCSF, PF",Hou,W 98-80,34,6,2,0,0,11,4.03,71.8,+1.9,4,24,2018-11-08
+Bench,Elfrid PaytonNOPG,,,,,,,,,4.39,76.9,-3.3,4,24,2018-11-08
+C,Al HorfordDTDBosC,@Phx,W 116-109,33,6,3,0,4,7,3.25,89.6,-3.4,5,24,2018-11-08
+G,Damian LillardPorPG,LAC,W 116-105,35,4,4,1,1,25,7.24,99.8,-0.1,5,24,2018-11-08
+G,Kyrie IrvingBosPG,@Phx,W 116-109,43,7,6,3,1,39,2.31,96.0,-3.5,5,24,2018-11-08
+G,Trae YoungAtlPG,,,,,,,,,6.33,97.0,-0.6,5,24,2018-11-08
+F,"Anthony DavisONOPF, C",,,,,,,,,-5.20,91.0,-6.3,5,24,2018-11-08
+F,"Joe InglesUtahSF, SG",,,,,,,,,5.45,85.1,+4.0,5,24,2018-11-08
 F,Empty,,,,,,,,,,,,5,24,2018-11-08
-UTIL,Clint CapelaHouC,@OKC,L 80-98,34,7,3,1,1,17,10.13,98.3,+0.1,5,24,2018-11-08
-UTIL,Marc GasolDTDMemC,,,,,,,,,12.21,97.3,+0.4,5,24,2018-11-08
-UTIL,Lou WilliamsLACSG,@Por,L 105-116,36,3,7,0,0,20,0.83,94.0,-0.6,5,24,2018-11-08
-Bench,Kawhi LeonardTorSF,,,,,,,,,6.45,99.7,-0.1,5,24,2018-11-08
-Bench,Donovan MitchellUtahSG,,,,,,,,,3.04,97.8,-1.1,5,24,2018-11-08
-Bench,Hassan WhitesideMiaC,,,,,,,,,7.64,83.7,-2.9,5,24,2018-11-08
-Bench,Goran DragicOMiaPG,,,,,,,,,-3.11,84.6,-2.1,5,24,2018-11-08
-C,Enes KanterNYC,,,,,,,,,6.33,88.9,+0.3,6,24,2018-11-08
-G,"Jimmy ButlerPhiSG, SF",,,,,,,,,6.24,99.7,0.0,6,24,2018-11-08
-G,CJ McCollumPorSG,LAC,W 116-105,35,7,2,0,0,23,2.48,98.3,-0.4,6,24,2018-11-08
-G,Jamal MurrayDenPG,,,,,,,,,5.79,83.5,-1.0,6,24,2018-11-08
-F,"LeBron JamesLALSF, PF",,,,,,,,,9.90,99.9,-0.1,6,24,2018-11-08
-F,"Ben SimmonsPhiPG, SF",,,,,,,,,8.64,99.6,-0.1,6,24,2018-11-08
-F,Blake GriffinDetPF,,,,,,,,,5.20,99.4,-0.1,6,24,2018-11-08
-UTIL,DeAndre JordanDalC,,,,,,,,,2.18,97.9,-0.3,6,24,2018-11-08
-UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,2.99,83.3,-4.5,6,24,2018-11-08
-UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,0.76,66.9,+0.8,6,24,2018-11-08
-Bench,"Jrue HolidayNoPG, SG",,,,,,,,,11.51,99.0,-0.1,6,24,2018-11-08
-Bench,"Julius RandleNoPF, C",,,,,,,,,6.66,97.2,+1.0,6,24,2018-11-08
-Bench,Tobias HarrisLACPF,@Por,L 105-116,37,11,2,0,1,15,3.08,94.5,+0.4,6,24,2018-11-08
+UTIL,Clint CapelaDTDHouC,@OKC,L 80-98,34,7,3,1,1,17,7.18,96.8,-2.1,5,24,2018-11-08
+UTIL,Marc GasolTorC,,,,,,,,,3.00,94.0,-1.5,5,24,2018-11-08
+UTIL,Lou WilliamsLACSG,@Por,L 105-116,36,3,7,0,0,20,2.44,95.9,-0.9,5,24,2018-11-08
+Bench,Kawhi LeonardTorSF,,,,,,,,,1.20,98.8,-0.6,5,24,2018-11-08
+Bench,"Donovan MitchellDTDUtahSG, PG",,,,,,,,,6.01,98.5,-0.5,5,24,2018-11-08
+Bench,Hassan WhitesideMiaC,,,,,,,,,4.61,91.6,+1.7,5,24,2018-11-08
+Bench,Goran DragicMiaPG,,,,,,,,,7.23,76.8,+2.4,5,24,2018-11-08
+C,Enes KanterPorC,LAC,W 116-105,,,,,,,6.60,92.0,+2.7,6,24,2018-11-08
+G,"Jimmy ButlerPhiSG, SF",,,,,,,,,-0.19,97.7,-1.7,6,24,2018-11-08
+G,CJ McCollumPorSG,LAC,W 116-105,35,7,2,0,0,23,-3.19,89.1,+4.0,6,24,2018-11-08
+G,"Jamal MurrayDenPG, SG",,,,,,,,,7.01,95.6,-0.1,6,24,2018-11-08
+F,"LeBron JamesOLALSF, PF",,,,,,,,,-3.82,85.5,-2.8,6,24,2018-11-08
+F,"Ben SimmonsDTDPhiPG, SF",,,,,,,,,8.18,98.4,-1.4,6,24,2018-11-08
+F,Blake GriffinDTDDetPF,,,,,,,,,0.18,97.2,-1.3,6,24,2018-11-08
+UTIL,DeAndre JordanNYC,,,,,,,,,-4.50,86.6,-3.8,6,24,2018-11-08
+UTIL,"Andrew WigginsMinSF, SG",,,,,,,,,5.65,92.1,+1.6,6,24,2018-11-08
+UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,-2.03,64.4,+0.4,6,24,2018-11-08
+Bench,"Jrue HolidayONOPG, SG",,,,,,,,,,75.9,-1.0,6,24,2018-11-08
+Bench,"Julius RandleNOPF, C",,,,,,,,,1.38,95.3,-3.6,6,24,2018-11-08
+Bench,"Tobias HarrisPhiPF, SF",,,37,11,2,0,1,15,2.47,97.4,-2.0,6,24,2018-11-08

@@ -1,0 +1,82 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,DeMarcus CousinsGSC,@Phx,W 117-107,27,5,4,2,1,18,8.77,90.4,-3.7,1,116,2019-02-08
+G,Eric BledsoeMilPG,@Dal,W 122-107,27,3,5,0,1,18,3.63,96.5,0.0,1,116,2019-02-08
+G,De'Aaron FoxSacPG,Mia,W 102-96,30,2,3,4,0,12,8.07,97.3,-1.0,1,116,2019-02-08
+G,"D'Angelo RussellBknPG, SG",Chi,L 106-125,32,1,6,2,0,23,6.30,98.6,+0.2,1,116,2019-02-08
+F,"Giannis AntetokounmpoMilPF, SF",@Dal,W 122-107,31,16,5,0,1,29,4.84,99.8,-0.1,1,116,2019-02-08
+F,"Nikola JokicDenC, PF",@Phi,L 110-117,35,10,10,3,0,27,10.34,99.9,0.0,1,116,2019-02-08
+F,Kelly Oubre Jr.OPhxSF,GS,L 107-117,34,12,4,3,0,25,,18.0,-2.7,1,116,2019-02-08
+UTIL,Kris DunnOChiPG,@Bkn,W 125-106,30,5,9,0,1,14,-5.20,50.8,-1.1,1,116,2019-02-08
+UTIL,Empty,,,,,,,,,,,,1,116,2019-02-08
+UTIL,Empty,,,,,,,,,,,,1,116,2019-02-08
+Bench,Nikola VucevicOrlC,,,,,,,,,4.36,97.8,-1.4,1,116,2019-02-08
+Bench,"Jerami GrantOKCSF, PF",,,,,,,,,4.03,71.8,+1.9,1,116,2019-02-08
+Bench,PJ TuckerHouSF,,,,,,,,,0.81,6.4,-1.6,1,116,2019-02-08
+Bench,"Serge IbakaTorPF, C",,,,,,,,,3.34,85.3,-3.2,1,116,2019-02-08
+Bench,Clint CapelaDTDHouC,,,,,,,,,7.18,96.8,-2.1,1,116,2019-02-08
+C,Empty,,,,,,,,,,,,2,116,2019-02-08
+G,Stephen CurryGSPG,@Phx,W 117-107,36,7,7,1,1,20,8.07,99.8,-0.1,2,116,2019-02-08
+G,"Devin BookerOPhxSG, PG",GS,L 107-117,,,,,,,1.12,84.7,-14.3,2,116,2019-02-08
+G,"Luka DoncicDalSG, PF",Mil,L 107-122,27,3,2,0,0,20,0.92,98.5,-0.2,2,116,2019-02-08
+F,"Kevin DurantGSSF, PF",@Phx,W 117-107,34,8,3,0,0,21,7.33,99.9,0.0,2,116,2019-02-08
+F,Lauri MarkkanenChiPF,@Bkn,W 125-106,38,18,0,0,2,31,,69.4,-1.4,2,116,2019-02-08
+F,Josh JacksonPhxSF,GS,L 107-117,33,8,5,1,0,19,4.71,39.7,+2.9,2,116,2019-02-08
+UTIL,Andre DrummondDetC,NY,W 120-103,33,20,2,1,3,29,18.90,99.7,0.0,2,116,2019-02-08
+UTIL,"Thaddeus YoungIndPF, SF",,,,,,,,,2.59,69.4,-3.6,2,116,2019-02-08
+UTIL,"Montrezl HarrellLACC, PF",,,,,,,,,3.59,89.7,-1.4,2,116,2019-02-08
+Bench,Paul GeorgeDTDOKCSF,,,,,,,,,8.72,99.8,-0.1,2,116,2019-02-08
+Bench,Kemba WalkerChaPG,,,,,,,,,7.08,99.9,0.0,2,116,2019-02-08
+Bench,Myles TurnerIndC,,,,,,,,,6.53,88.1,-3.3,2,116,2019-02-08
+Bench,Al HorfordDTDBosC,,,,,,,,,3.25,89.6,-3.4,2,116,2019-02-08
+C,Karl-Anthony TownsMinC,@NO,L 117-122,33,8,3,1,2,32,5.61,99.8,-0.1,3,116,2019-02-08
+G,Russell WestbrookOKCPG,,,,,,,,,15.16,99.9,0.0,3,116,2019-02-08
+G,Bradley BealWshSG,Cle,W 119-106,37,6,13,2,0,25,4.70,98.1,-1.7,3,116,2019-02-08
+G,Mike ConleyOMemPG,,,,,,,,,-2.26,87.3,-9.2,3,116,2019-02-08
+F,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,116,2019-02-08
+F,"Khris MiddletonMilSF, SG",@Dal,W 122-107,,,,,,,1.81,98.9,+0.5,3,116,2019-02-08
+F,"Draymond GreenDTDGSPF, C",@Phx,W 117-107,26,4,3,0,1,13,10.19,95.3,-1.2,3,116,2019-02-08
+UTIL,"Josh RichardsonOMiaSF, SG",@Sac,L 96-102,37,2,4,0,3,21,-4.30,65.7,-4.6,3,116,2019-02-08
+UTIL,Brook LopezMilC,@Dal,W 122-107,27,6,2,0,1,20,4.02,64.2,-4.3,3,116,2019-02-08
+UTIL,Buddy HieldSacSG,Mia,W 102-96,34,7,1,0,2,23,4.12,95.9,-0.5,3,116,2019-02-08
+Bench,Chris PaulHouPG,,,,,,,,,7.78,97.8,-1.2,3,116,2019-02-08
+Bench,Rudy GobertDTDUtahC,,,,,,,,,11.36,97.7,-1.2,3,116,2019-02-08
+Bench,Aaron GordonOrlPF,,,,,,,,,5.90,95.8,+0.1,3,116,2019-02-08
+C,Joel EmbiidDTDPhiC,Den,W 117-110,33,12,1,1,4,15,3.83,99.7,0.0,4,116,2019-02-08
+G,Kyle LowryTorPG,,,,,,,,,4.23,97.1,-1.6,4,116,2019-02-08
+G,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,116,2019-02-08
+G,Lou WilliamsLACSG,,,,,,,,,2.44,95.9,-0.9,4,116,2019-02-08
+F,"Jayson TatumBosSF, PF",,,,,,,,,1.38,93.8,-4.2,4,116,2019-02-08
+F,"Domantas SabonisIndPF, C",,,,,,,,,3.36,91.8,-1.5,4,116,2019-02-08
+F,"Justise WinslowMiaSF, PG",@Sac,L 96-102,31,10,6,0,1,5,1.09,24.4,+2.4,4,116,2019-02-08
+UTIL,Jarrett AllenBknC,Chi,L 106-125,29,10,0,0,1,12,2.16,81.5,+1.5,4,116,2019-02-08
+UTIL,Jusuf NurkicOPorC,,,,,,,,,,65.9,-1.1,4,116,2019-02-08
+UTIL,Rajon RondoLALPG,,,,,,,,,6.19,45.0,-13.6,4,116,2019-02-08
+Bench,"James HardenHouSG, PG",,,,,,,,,9.59,99.8,-0.1,4,116,2019-02-08
+Bench,Steven AdamsOKCC,,,,,,,,,6.44,95.7,+0.3,4,116,2019-02-08
+Bench,"Brandon IngramOLALSF, SG",,,,,,,,,,65.5,+0.7,4,116,2019-02-08
+C,Hassan WhitesideMiaC,@Sac,L 96-102,28,19,1,3,2,17,4.61,91.6,+1.7,5,116,2019-02-08
+G,Kyrie IrvingBosPG,,,,,,,,,2.31,96.0,-3.5,5,116,2019-02-08
+G,Trae YoungAtlPG,,,,,,,,,6.33,97.0,-0.6,5,116,2019-02-08
+G,Zach LaVineOChiSG,@Bkn,W 125-106,37,3,5,2,0,26,,80.6,-4.6,5,116,2019-02-08
+F,Kawhi LeonardTorSF,,,,,,,,,1.20,98.8,-0.6,5,116,2019-02-08
+F,"Kyle KuzmaOLALPF, SF",,,,,,,,,-3.39,84.4,-7.3,5,116,2019-02-08
+F,"Kevin LoveClePF, C",@Wsh,L 106-119,6,1,1,0,0,4,-3.61,82.2,-9.3,5,116,2019-02-08
+UTIL,"Anthony DavisONOPF, C",Min,W 122-117,25,9,2,0,3,32,-5.20,91.0,-6.3,5,116,2019-02-08
+UTIL,Willie Cauley-SteinSacC,Mia,W 102-96,24,7,1,1,3,7,2.06,87.7,-1.8,5,116,2019-02-08
+UTIL,John CollinsAtlPF,,,,,,,,,3.81,95.9,-1.3,5,116,2019-02-08
+Bench,Damian LillardPorPG,,,,,,,,,7.24,99.8,-0.1,5,116,2019-02-08
+Bench,"Donovan MitchellDTDUtahSG, PG",,,,,,,,,6.01,98.5,-0.5,5,116,2019-02-08
+Bench,Marc GasolTorC,,,,,,,,,3.00,94.0,-1.5,5,116,2019-02-08
+C,Enes KanterPorC,,,,,,,,,6.60,92.0,+2.7,6,116,2019-02-08
+G,"Jimmy ButlerPhiSG, SF",Den,W 117-110,36,7,5,3,0,22,-0.19,97.7,-1.7,6,116,2019-02-08
+G,CJ McCollumPorSG,,,,,,,,,-3.19,89.1,+4.0,6,116,2019-02-08
+G,"Jamal MurrayDenPG, SG",@Phi,L 110-117,36,5,6,0,1,23,7.01,95.6,-0.1,6,116,2019-02-08
+F,"LeBron JamesOLALSF, PF",,,,,,,,,-3.82,85.5,-2.8,6,116,2019-02-08
+F,"Ben SimmonsDTDPhiPG, SF",Den,W 117-110,34,4,6,0,0,12,8.18,98.4,-1.4,6,116,2019-02-08
+F,Blake GriffinDTDDetPF,NY,W 120-103,29,6,4,0,0,26,0.18,97.2,-1.3,6,116,2019-02-08
+UTIL,DeAndre JordanNYC,@Det,L 103-120,29,11,1,0,2,14,-4.50,86.6,-3.8,6,116,2019-02-08
+UTIL,"Andrew WigginsMinSF, SG",@NO,L 117-122,35,10,7,0,2,23,5.65,92.1,+1.6,6,116,2019-02-08
+UTIL,"Nicolas BatumChaSG, SF",,,,,,,,,-2.03,64.4,+0.4,6,116,2019-02-08
+Bench,"Jrue HolidayONOPG, SG",Min,W 122-117,36,4,9,3,1,27,,75.9,-1.0,6,116,2019-02-08
+Bench,"Julius RandleNOPF, C",Min,W 122-117,24,8,1,3,1,12,1.38,95.3,-3.6,6,116,2019-02-08
+Bench,"Tobias HarrisPhiPF, SF",Den,W 117-110,32,8,3,1,0,14,2.47,97.4,-2.0,6,116,2019-02-08

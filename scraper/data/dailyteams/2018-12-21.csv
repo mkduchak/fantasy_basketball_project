@@ -1,0 +1,79 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,Nikola VucevicOrlC,@Chi,L 80-90,37,19,4,0,4,19,4.36,97.8,-1.4,1,67,2018-12-21
+G,Eric BledsoeMilPG,@Bos,W 120-107,30,4,2,1,0,16,3.63,96.5,0.0,1,67,2018-12-21
+G,De'Aaron FoxSacPG,Mem,W 102-99,33,2,8,5,1,14,8.07,97.3,-1.0,1,67,2018-12-21
+G,Kent BazemoreAtlSG,@NY,W 114-107,30,6,1,1,0,22,-0.04,13.7,-1.5,1,67,2018-12-21
+F,"Giannis AntetokounmpoMilPF, SF",@Bos,W 120-107,33,8,5,0,3,30,4.84,99.8,-0.1,1,67,2018-12-21
+F,John CollinsAtlPF,@NY,W 114-107,33,16,4,0,0,17,3.81,95.9,-1.3,1,67,2018-12-21
+F,"Serge IbakaTorPF, C",Cle,W 126-110,,,,,,,3.34,85.3,-3.2,1,67,2018-12-21
+UTIL,Ricky RubioOMinPG,@SA,L 98-124,27,2,8,1,1,24,-0.97,80.4,-4.9,1,67,2018-12-21
+UTIL,JaVale McGeeLALC,NO,W 112-104,,,,,,,7.27,70.8,-6.5,1,67,2018-12-21
+UTIL,"Wendell Carter Jr.OChiPF, C",Orl,W 90-80,25,8,0,0,0,10,-5.20,48.4,+1.0,1,67,2018-12-21
+Bench,"Nikola JokicDenC, PF",,,,,,,,,10.34,99.9,0.0,1,67,2018-12-21
+Bench,John WallOWshPG,,,,,,,,,,55.3,+2.2,1,67,2018-12-21
+Bench,DeMarcus CousinsSacC,Mem,W 102-99,,,,,,,8.77,90.4,-3.7,1,67,2018-12-21
+C,Andre DrummondDetC,@Cha,L 86-98,38,16,0,3,1,17,18.90,99.7,0.0,2,67,2018-12-21
+G,Stephen CurryGSPG,,,,,,,,,8.07,99.8,-0.1,2,67,2018-12-21
+G,Kemba WalkerChaPG,Det,W 98-86,34,2,5,2,2,22,7.08,99.9,0.0,2,67,2018-12-21
+G,"D'Angelo RussellBknPG, SG",Ind,L 106-114,26,3,9,0,0,3,6.30,98.6,+0.2,2,67,2018-12-21
+F,Paul GeorgeDTDOKCSF,,,,,,,,,8.72,99.8,-0.1,2,67,2018-12-21
+F,Robert CovingtonOMinSF,@SA,L 98-124,31,7,1,6,1,13,,25.4,-1.4,2,67,2018-12-21
+F,Lauri MarkkanenChiPF,Orl,W 90-80,37,6,3,0,1,32,,69.4,-1.4,2,67,2018-12-21
+UTIL,"Kevin DurantGSSF, PF",,,,,,,,,7.33,99.9,0.0,2,67,2018-12-21
+UTIL,"Luka DoncicDalSG, PF",,,,,,,,,0.92,98.5,-0.2,2,67,2018-12-21
+UTIL,Myles TurnerIndC,@Bkn,W 114-106,37,12,3,1,5,15,6.53,88.1,-3.3,2,67,2018-12-21
+Bench,"Devin BookerOPhxSG, PG",,,,,,,,,1.12,84.7,-14.3,2,67,2018-12-21
+Bench,Deandre AytonOPhxC,,,,,,,,,-2.35,84.9,-7.1,2,67,2018-12-21
+Bench,Klay ThompsonGSSG,,,,,,,,,1.34,97.9,-1.5,2,67,2018-12-21
+C,Karl-Anthony TownsMinC,@SA,L 98-124,29,6,4,1,0,13,5.61,99.8,-0.1,3,67,2018-12-21
+G,Russell WestbrookOKCPG,,,,,,,,,15.16,99.9,0.0,3,67,2018-12-21
+G,Mike ConleyOMemPG,@Sac,L 99-102,32,7,5,1,1,23,-2.26,87.3,-9.2,3,67,2018-12-21
+G,Lonzo BallOLALPG,NO,W 112-104,26,5,2,0,0,12,,63.0,+0.7,3,67,2018-12-21
+F,"LaMarcus AldridgeSAPF, C",Min,W 124-98,23,9,4,0,1,10,6.85,99.7,-0.1,3,67,2018-12-21
+F,Aaron GordonOrlPF,@Chi,L 80-90,37,12,4,0,1,14,5.90,95.8,+0.1,3,67,2018-12-21
+F,"Draymond GreenDTDGSPF, C",,,,,,,,,10.19,95.3,-1.2,3,67,2018-12-21
+UTIL,"Khris MiddletonMilSF, SG",@Bos,W 120-107,34,9,5,1,0,21,1.81,98.9,+0.5,3,67,2018-12-21
+UTIL,Rudy GobertDTDUtahC,@Por,W 120-90,30,11,3,0,2,11,11.36,97.7,-1.2,3,67,2018-12-21
+UTIL,Brook LopezMilC,@Bos,W 120-107,24,5,1,0,2,3,4.02,64.2,-4.3,3,67,2018-12-21
+Bench,Chris PaulHouPG,,,,,,,,,7.78,97.8,-1.2,3,67,2018-12-21
+Bench,Bradley BealWshSG,,,,,,,,,4.70,98.1,-1.7,3,67,2018-12-21
+Bench,"Josh RichardsonOMiaSF, SG",,,,,,,,,-4.30,65.7,-4.6,3,67,2018-12-21
+C,Joel EmbiidDTDPhiC,,,,,,,,,3.83,99.7,0.0,4,67,2018-12-21
+G,"James HardenHouSG, PG",,,,,,,,,9.59,99.8,-0.1,4,67,2018-12-21
+G,Victor OladipoOIndSG,@Bkn,W 114-106,36,9,6,2,0,26,,53.3,+2.0,4,67,2018-12-21
+G,Kyle LowryTorPG,Cle,W 126-110,,,,,,,4.23,97.1,-1.6,4,67,2018-12-21
+F,"DeMar DeRozanSASG, SF",Min,W 124-98,32,5,8,0,0,12,5.87,99.7,-0.1,4,67,2018-12-21
+F,"Jayson TatumBosSF, PF",Mil,L 107-120,32,5,2,2,1,20,1.38,93.8,-4.2,4,67,2018-12-21
+F,"Domantas SabonisIndPF, C",@Bkn,W 114-106,19,2,0,3,0,17,3.36,91.8,-1.5,4,67,2018-12-21
+UTIL,Jarrett AllenBknC,Ind,L 106-114,29,5,2,0,1,10,2.16,81.5,+1.5,4,67,2018-12-21
+UTIL,Jusuf NurkicOPorC,Utah,L 90-120,27,10,4,1,2,10,,65.9,-1.1,4,67,2018-12-21
+UTIL,"Gordon HaywardBosSF, SG",Mil,L 107-120,36,3,0,0,0,11,1.91,84.4,-1.1,4,67,2018-12-21
+Bench,Steven AdamsOKCC,,,,,,,,,6.44,95.7,+0.3,4,67,2018-12-21
+Bench,Paul MillsapDenPF,,,,,,,,,2.58,88.4,-2.0,4,67,2018-12-21
+Bench,Jeff TeagueOMinPG,@SA,L 98-124,,,,,,,,56.1,-0.5,4,67,2018-12-21
+C,Willie Cauley-SteinSacC,Mem,W 102-99,37,13,4,1,0,12,2.06,87.7,-1.8,5,67,2018-12-21
+G,Damian LillardPorPG,Utah,L 90-120,34,4,2,3,2,19,7.24,99.8,-0.1,5,67,2018-12-21
+G,Kyrie IrvingBosPG,Mil,L 107-120,39,9,7,0,0,15,2.31,96.0,-3.5,5,67,2018-12-21
+G,"Donovan MitchellDTDUtahSG, PG",@Por,W 120-90,28,7,4,1,1,3,6.01,98.5,-0.5,5,67,2018-12-21
+F,"Anthony DavisONOPF, C",@LAL,L 104-112,39,20,5,0,1,30,-5.20,91.0,-6.3,5,67,2018-12-21
+F,Kawhi LeonardSASF,Min,W 124-98,32,6,1,1,0,37,1.20,98.8,-0.6,5,67,2018-12-21
+F,"Kyle KuzmaOLALPF, SF",NO,W 112-104,37,3,1,1,0,23,-3.39,84.4,-7.3,5,67,2018-12-21
+UTIL,Clint CapelaDTDHouC,,,,,,,,,7.18,96.8,-2.1,5,67,2018-12-21
+UTIL,Marc GasolTorC,Cle,W 126-110,38,8,5,0,2,12,3.00,94.0,-1.5,5,67,2018-12-21
+UTIL,Trae YoungAtlPG,@NY,W 114-107,28,3,10,1,0,15,6.33,97.0,-0.6,5,67,2018-12-21
+Bench,Hassan WhitesideMiaC,,,,,,,,,4.61,91.6,+1.7,5,67,2018-12-21
+Bench,Harrison BarnesSacPF,Mem,W 102-99,,,,,,,0.36,84.9,-0.7,5,67,2018-12-21
+Bench,"Danilo GallinariLACSF, PF",,,,,,,,,2.41,92.5,-3.1,5,67,2018-12-21
+C,Enes KanterNYC,Atl,L 107-114,24,5,1,1,1,10,6.60,92.0,+2.7,6,67,2018-12-21
+G,"Jimmy ButlerPhiSG, SF",,,,,,,,,-0.19,97.7,-1.7,6,67,2018-12-21
+G,CJ McCollumPorSG,Utah,L 90-120,30,4,2,3,0,12,-3.19,89.1,+4.0,6,67,2018-12-21
+G,"Jamal MurrayDenPG, SG",,,,,,,,,7.01,95.6,-0.1,6,67,2018-12-21
+F,"LeBron JamesOLALSF, PF",NO,W 112-104,39,12,14,2,0,22,-3.82,85.5,-2.8,6,67,2018-12-21
+F,"Ben SimmonsDTDPhiPG, SF",,,,,,,,,8.18,98.4,-1.4,6,67,2018-12-21
+F,Blake GriffinDTDDetPF,@Cha,L 86-98,37,7,5,0,1,23,0.18,97.2,-1.3,6,67,2018-12-21
+UTIL,DeAndre JordanLACC,,,,,,,,,-4.50,86.6,-3.8,6,67,2018-12-21
+UTIL,"Andrew WigginsMinSF, SG",@SA,L 98-124,29,6,0,0,0,15,5.65,92.1,+1.6,6,67,2018-12-21
+UTIL,"Nicolas BatumChaSG, SF",Det,W 98-86,36,4,4,0,1,2,-2.03,64.4,+0.4,6,67,2018-12-21
+Bench,"Jrue HolidayONOPG, SG",@LAL,L 104-112,38,6,10,0,3,18,,75.9,-1.0,6,67,2018-12-21
+Bench,"Julius RandleNOPF, C",@LAL,L 104-112,34,8,2,0,1,21,1.38,95.3,-3.6,6,67,2018-12-21
+Bench,"Tobias HarrisPhiPF, SF",,,,,,,,,2.47,97.4,-2.0,6,67,2018-12-21

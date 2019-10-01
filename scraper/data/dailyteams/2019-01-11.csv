@@ -1,0 +1,80 @@
+pos,player_team_status_pos,opp,result,MIN,REB,AST,STL,BLK,PTS,PR15,%ROST,+/-,team_id,scoring_period,date
+C,JaVale McGeeLALC,@Utah,L 95-113,16,8,1,0,2,4,7.27,70.8,-6.5,1,88,2019-01-11
+G,Eric BledsoeMilPG,@Wsh,L 106-113,28,8,9,3,0,18,3.63,96.5,0.0,1,88,2019-01-11
+G,Kris DunnOChiPG,@GS,L 109-146,25,0,5,2,0,6,-5.20,50.8,-1.1,1,88,2019-01-11
+G,"Brandon IngramOLALSF, SG",@Utah,L 95-113,35,5,0,0,1,15,,65.5,+0.7,1,88,2019-01-11
+F,"Giannis AntetokounmpoMilPF, SF",@Wsh,L 106-113,,,,,,,4.84,99.8,-0.1,1,88,2019-01-11
+F,John CollinsAtlPF,@Phi,W 123-121,34,9,2,1,0,25,3.81,95.9,-1.3,1,88,2019-01-11
+F,"Serge IbakaTorPF, C",Bkn,W 122-105,25,9,1,0,1,14,3.34,85.3,-3.2,1,88,2019-01-11
+UTIL,"Nikola JokicDenC, PF",,,,,,,,,10.34,99.9,0.0,1,88,2019-01-11
+UTIL,"Wendell Carter Jr.OChiPF, C",@GS,L 109-146,17,5,1,1,0,4,-5.20,48.4,+1.0,1,88,2019-01-11
+UTIL,DeMarcus CousinsGSC,Chi,W 146-109,,,,,,,8.77,90.4,-3.7,1,88,2019-01-11
+Bench,Ricky RubioOUtahPG,LAL,W 113-95,,,,,,,-0.97,80.4,-4.9,1,88,2019-01-11
+Bench,Nikola VucevicOrlC,,,,,,,,,4.36,97.8,-1.4,1,88,2019-01-11
+Bench,De'Aaron FoxSacPG,,,,,,,,,8.07,97.3,-1.0,1,88,2019-01-11
+C,Andre DrummondDetC,,,,,,,,,18.90,99.7,0.0,2,88,2019-01-11
+G,Stephen CurryGSPG,Chi,W 146-109,27,5,8,0,0,28,8.07,99.8,-0.1,2,88,2019-01-11
+G,Kemba WalkerChaPG,@Por,L 96-127,32,3,3,1,0,18,7.08,99.9,0.0,2,88,2019-01-11
+G,Klay ThompsonGSSG,Chi,W 146-109,25,2,1,2,0,30,1.34,97.9,-1.5,2,88,2019-01-11
+F,"Kevin DurantGSSF, PF",Chi,W 146-109,28,4,5,1,1,22,7.33,99.9,0.0,2,88,2019-01-11
+F,"Luka DoncicDalSG, PF",@Min,W 119-115,35,8,12,2,0,29,0.92,98.5,-0.2,2,88,2019-01-11
+F,Lauri MarkkanenChiPF,@GS,L 109-146,26,5,0,0,0,8,,69.4,-1.4,2,88,2019-01-11
+UTIL,Deandre AytonOPhxC,,,,,,,,,-2.35,84.9,-7.1,2,88,2019-01-11
+UTIL,"Montrezl HarrellLACC, PF",,,,,,,,,3.59,89.7,-1.4,2,88,2019-01-11
+UTIL,Empty,,,,,,,,,,,,2,88,2019-01-11
+Bench,Paul GeorgeDTDOKCSF,,,,,,,,,8.72,99.8,-0.1,2,88,2019-01-11
+Bench,"Devin BookerOPhxSG, PG",,,,,,,,,1.12,84.7,-14.3,2,88,2019-01-11
+Bench,Myles TurnerIndC,@NY,W 121-106,,,,,,,6.53,88.1,-3.3,2,88,2019-01-11
+Bench,Robert CovingtonOMinSF,Dal,L 115-119,,,,,,,,25.4,-1.4,2,88,2019-01-11
+C,Rudy GobertDTDUtahC,LAL,W 113-95,32,18,2,2,2,12,11.36,97.7,-1.2,3,88,2019-01-11
+G,Chris PaulHouPG,Cle,W 141-113,,,,,,,7.78,97.8,-1.2,3,88,2019-01-11
+G,Bradley BealWshSG,Mil,W 113-106,39,5,7,3,1,32,4.70,98.1,-1.7,3,88,2019-01-11
+G,Mike ConleyOMemPG,,,,,,,,,-2.26,87.3,-9.2,3,88,2019-01-11
+F,"LaMarcus AldridgeSAPF, C",,,,,,,,,6.85,99.7,-0.1,3,88,2019-01-11
+F,"Khris MiddletonMilSF, SG",@Wsh,L 106-113,37,8,3,1,0,25,1.81,98.9,+0.5,3,88,2019-01-11
+F,"Draymond GreenDTDGSPF, C",Chi,W 146-109,21,7,7,0,1,2,10.19,95.3,-1.2,3,88,2019-01-11
+UTIL,Karl-Anthony TownsMinC,Dal,L 115-119,30,11,2,0,4,30,5.61,99.8,-0.1,3,88,2019-01-11
+UTIL,Lonzo BallOLALPG,@Utah,L 95-113,31,7,6,2,0,7,,63.0,+0.7,3,88,2019-01-11
+UTIL,Brook LopezMilC,@Wsh,L 106-113,31,3,3,0,5,13,4.02,64.2,-4.3,3,88,2019-01-11
+Bench,Russell WestbrookOKCPG,,,,,,,,,15.16,99.9,0.0,3,88,2019-01-11
+Bench,Aaron GordonOrlPF,,,,,,,,,5.90,95.8,+0.1,3,88,2019-01-11
+Bench,"Josh RichardsonOMiaSF, SG",,,,,,,,,-4.30,65.7,-4.6,3,88,2019-01-11
+C,Joel EmbiidDTDPhiC,Atl,L 121-123,,,,,,,3.83,99.7,0.0,4,88,2019-01-11
+G,"James HardenHouSG, PG",Cle,W 141-113,30,10,12,2,2,43,9.59,99.8,-0.1,4,88,2019-01-11
+G,Victor OladipoOIndSG,@NY,W 121-106,28,4,6,1,0,19,,53.3,+2.0,4,88,2019-01-11
+G,Kyle LowryTorPG,Bkn,W 122-105,23,2,8,1,0,4,4.23,97.1,-1.6,4,88,2019-01-11
+F,"DeMar DeRozanSASG, SF",,,,,,,,,5.87,99.7,-0.1,4,88,2019-01-11
+F,Paul MillsapDenPF,,,,,,,,,2.58,88.4,-2.0,4,88,2019-01-11
+F,"Domantas SabonisIndPF, C",@NY,W 121-106,32,15,3,0,0,22,3.36,91.8,-1.5,4,88,2019-01-11
+UTIL,Jarrett AllenBknC,@Tor,L 105-122,22,12,0,1,2,9,2.16,81.5,+1.5,4,88,2019-01-11
+UTIL,Jusuf NurkicOPorC,Cha,W 127-96,30,11,8,1,6,11,,65.9,-1.1,4,88,2019-01-11
+UTIL,Jeff TeagueOMinPG,Dal,L 115-119,31,3,6,2,2,12,,56.1,-0.5,4,88,2019-01-11
+Bench,"Jayson TatumBosSF, PF",,,,,,,,,1.38,93.8,-4.2,4,88,2019-01-11
+Bench,Steven AdamsOKCC,,,,,,,,,6.44,95.7,+0.3,4,88,2019-01-11
+Bench,Zach LaVineOChiSG,@GS,L 109-146,27,4,0,0,0,29,,80.6,-4.6,4,88,2019-01-11
+C,"Anthony DavisONOPF, C",,,,,,,,,-5.20,91.0,-6.3,5,88,2019-01-11
+G,Damian LillardPorPG,Cha,W 127-96,29,4,5,3,4,20,7.24,99.8,-0.1,5,88,2019-01-11
+G,"Donovan MitchellDTDUtahSG, PG",LAL,W 113-95,33,4,9,1,2,33,6.01,98.5,-0.5,5,88,2019-01-11
+G,Trae YoungAtlPG,@Phi,W 123-121,32,4,5,2,0,18,6.33,97.0,-0.6,5,88,2019-01-11
+F,Kawhi LeonardSASF,,,27,11,4,1,0,20,1.20,98.8,-0.6,5,88,2019-01-11
+F,"Kyle KuzmaOLALPF, SF",@Utah,L 95-113,36,8,1,1,0,11,-3.39,84.4,-7.3,5,88,2019-01-11
+F,Harrison BarnesSacPF,,,33,2,0,0,0,23,0.36,84.9,-0.7,5,88,2019-01-11
+UTIL,Clint CapelaDTDHouC,Cle,W 141-113,30,4,2,1,2,19,7.18,96.8,-2.1,5,88,2019-01-11
+UTIL,Hassan WhitesideMiaC,,,,,,,,,4.61,91.6,+1.7,5,88,2019-01-11
+UTIL,Willie Cauley-SteinSacC,,,,,,,,,2.06,87.7,-1.8,5,88,2019-01-11
+Bench,Kyrie IrvingBosPG,,,,,,,,,2.31,96.0,-3.5,5,88,2019-01-11
+Bench,Marc GasolTorC,Bkn,W 122-105,,,,,,,3.00,94.0,-1.5,5,88,2019-01-11
+Bench,"Danilo GallinariLACSF, PF",,,,,,,,,2.41,92.5,-3.1,5,88,2019-01-11
+C,Enes KanterPorC,Cha,W 127-96,,,,,,,6.60,92.0,+2.7,6,88,2019-01-11
+G,"Jimmy ButlerPhiSG, SF",Atl,L 121-123,40,4,5,3,0,30,-0.19,97.7,-1.7,6,88,2019-01-11
+G,CJ McCollumPorSG,Cha,W 127-96,29,6,2,1,0,30,-3.19,89.1,+4.0,6,88,2019-01-11
+G,"Jamal MurrayDenPG, SG",,,,,,,,,7.01,95.6,-0.1,6,88,2019-01-11
+F,"LeBron JamesOCleSF, PF",@Hou,L 113-141,,,,,,,-3.82,85.5,-2.8,6,88,2019-01-11
+F,"Ben SimmonsDTDPhiPG, SF",Atl,L 121-123,43,10,15,2,1,23,8.18,98.4,-1.4,6,88,2019-01-11
+F,Blake GriffinDTDDetPF,,,,,,,,,0.18,97.2,-1.3,6,88,2019-01-11
+UTIL,DeAndre JordanNYC,Ind,L 106-121,30,15,0,2,0,8,-4.50,86.6,-3.8,6,88,2019-01-11
+UTIL,"Andrew WigginsMinSF, SG",Dal,L 115-119,39,6,3,1,2,17,5.65,92.1,+1.6,6,88,2019-01-11
+UTIL,"Nicolas BatumChaSG, SF",@Por,L 96-127,24,5,2,0,0,8,-2.03,64.4,+0.4,6,88,2019-01-11
+Bench,"Jrue HolidayONOPG, SG",,,,,,,,,,75.9,-1.0,6,88,2019-01-11
+Bench,"Julius RandleLALPF, C",@Utah,L 95-113,,,,,,,1.38,95.3,-3.6,6,88,2019-01-11
+Bench,"Tobias HarrisPhiPF, SF",Atl,L 121-123,,,,,,,2.47,97.4,-2.0,6,88,2019-01-11
